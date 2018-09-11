@@ -7,8 +7,8 @@ The GUI repository is at the following link: https://github.com/swha0901/3D-LEM-
 
 Following Python3 libraries are required:
 
-  > Pykrige v1.4.0 (link: https://github.com/bsmurphy/PyKrige)
+  - Pykrige v1.4.0 (link: https://github.com/bsmurphy/PyKrige)
 
-  > Scipy v1.1.0
+  - Scipy v1.1.0
 
-  > Numpy v1.15.0
+  - Numpy v1.15.0
